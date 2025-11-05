@@ -48,7 +48,7 @@ try:
 
     if "Modules_ModuleNotFound" in check_module:
         confirmation = mb.askyesnocancel("Info", "Necessary module not found and will be installed. Would you" +
-                                   "like to delete it after on?")
+                                   " like to delete it after on?")
         if confirmation == None:
             sys.exit(0)
 
@@ -85,3 +85,4 @@ try:
 except Exception as e:
     print(f"An error occurred:\n{e}\nPress Enter to exit...")
     input()
+
