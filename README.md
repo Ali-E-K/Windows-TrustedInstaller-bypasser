@@ -4,12 +4,12 @@ A tool that lets you execute commands on your Windows computer without interfere
 
 #### Requirements
 
-- Python 3.6+
-- subprocess (built in)
-- sys (built in)
-- ctypes (built in)
-- time (built in)
-- tkinter (built in)
+- Python 3.6+ (Not required to be installed for the executable)
+- subprocess (Built in. Not required to be installed for the executable)
+- sys (Built in. Not required to be installed for the executable)
+- ctypes (Built in. Not required to be installed for the executable)
+- time (Built in. Not required to be installed for the executable)
+- tkinter (Built in. Not required to be installed for the executable)
 
 #### The following requirements will be installed automatically by the program after you have been asked for permission
 
@@ -18,7 +18,7 @@ A tool that lets you execute commands on your Windows computer without interfere
 
 #### Usage
 
-Run the executable "ti_bypasser.exe"
+Run the executable `ti_bypasser.exe`
 
 Or run the following command in a command prompt:
 
