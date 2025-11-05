@@ -18,13 +18,13 @@ A tool that lets you execute commands on your Windows computer without interfere
 
 #### Usage
 
-Run the following command in a command prompt:
+Run the executable "ti_bypasser.exe"
+
+Or run the following command in a command prompt:
 
 ```sh
 python main.py
 ```
-
-or:
 
 ```sh
 ti_bypasser.exe
