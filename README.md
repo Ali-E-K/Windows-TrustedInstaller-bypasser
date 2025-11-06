@@ -31,7 +31,7 @@ ti_bypasser.exe
 ```
 
 To troubleshoot errors, run the following command to keep the console open and examine the output
-(Some command prompts may not close even without the "debug" argument):
+(Sometimes the console may not close even without the "debug" argument):
 
 ```sh
 python main.py debug
